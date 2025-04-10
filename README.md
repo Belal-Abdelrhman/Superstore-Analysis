@@ -47,9 +47,10 @@ We implemented K-Means clustering for customer segmentation and collaborative fi
 ### 📌 Interactive Tableau Dashboard – Sales insights & trend analysis 
 
 ## 📊 Dashboard Previews
-![08 04 2025_23 14 22_REC](https://github.com/user-attachments/assets/99eb1994-f8f2-4e8a-87eb-d0206cb62422)
+https://github.com/user-attachments/assets/e2c3d765-6fab-4a52-b536-1b09e3345c8d
 
-https://github.com/user-attachments/assets/f2e535d4-f8d7-4bb4-ad43-6b131f81261f
+![Screenshot_10-4-2025_202951_app powerbi com](https://github.com/user-attachments/assets/2f07e924-f658-441c-bd18-9b9e2b6831d0)
+
 
 
 
