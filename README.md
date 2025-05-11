@@ -26,7 +26,7 @@ We implemented K-Means clustering for customer segmentation and collaborative fi
 
 ## 📌 Tech Stack Used
 ### 🟢 Programming: Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)
-### 🟢 Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
+### 🟢 Data Visualization: Power BI, Matplotlib, Seaborn
 ### 🟢 Database Queries: SQL
 
 ## 📈 Key Insights & Recommendations
@@ -42,15 +42,10 @@ We implemented K-Means clustering for customer segmentation and collaborative fi
 #### 💡 Insight: North Dakota has low profitability and sales potential.
 #### ✅ Action: Conduct market research, offer region-specific promotions, and optimize pricing.
 
-## 📌 Resources
-### 📌 SQL Queries – Business-related queries for sales and customer analysis 
-### 📌 Interactive Tableau Dashboard – Sales insights & trend analysis 
 
 ## 📊 Dashboard Previews
-https://github.com/user-attachments/assets/e2c3d765-6fab-4a52-b536-1b09e3345c8d
+https://github.com/user-attachments/assets/9e1ecd85-327d-46dd-a508-dffa92b165dc
 
-![Screenshot_10-4-2025_202951_app powerbi com](https://github.com/user-attachments/assets/2f07e924-f658-441c-bd18-9b9e2b6831d0)
-
-
+![30 04 2025_23 07 22_REC](https://github.com/user-attachments/assets/fc6b4e52-dc90-491a-9d8e-fd6c179d2e11)
 
 
